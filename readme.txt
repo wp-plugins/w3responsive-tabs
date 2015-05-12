@@ -1,5 +1,5 @@
 === W3Responsive Tabs ===
-Contributors: faruque82
+Contributors: SM Faruque
 Tags: jQuery Tab, Responsive Tab
 Requires at least: 3.3
 Tested up to: 4.2.2
