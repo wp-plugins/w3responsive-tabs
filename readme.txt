@@ -34,7 +34,7 @@ e.g.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Use shortcode in page, post or in widgets.
 4. If you want W3Responsive Tabs in your theme php, Place `<?php echo do_shortcode('YOUR_SHORTCODE'); ?>` in your templates
-5. You have to use shortcode for generate W3Responsive Tabs in post or page. Example shortcode is given below. <br /> <hr />
+5. You have to use shortcode for generate W3Responsive Tabs in post or page. Example shortcode is given below. <br />
 
 
 ************** Tab Position Horizontal
