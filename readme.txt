@@ -45,12 +45,28 @@ e.g.
 [tabtoggle tabname="Name" tabtitle="Title"]....[/tabtoggle]
 [/w3itinfotab]</pre>
 
+************** Example Horizontal
+<pre>[w3itinfotab tab_id="Mytab" position="Horizontal"]
+[tabtoggle tabname="tab1" tabtitle="tab11"]....[/tabtoggle]
+[tabtoggle tabname="tab1" tabtitle="tab11"]....[/tabtoggle]
+[tabtoggle tabname="tab1" tabtitle="tab11"]....[/tabtoggle]
+[tabtoggle tabname="tab1" tabtitle="tab11"]....[/tabtoggle]
+[/w3itinfotab]</pre>
+
 ************** Tab Position Vertical
 <pre>[w3itinfotab tab_id="Tab Id" position="Vertical"]
 [tabtoggle tabname="Name" tabtitle="Title"]....[/tabtoggle]
 [tabtoggle tabname="Name" tabtitle="Title"]....[/tabtoggle]
 [tabtoggle tabname="Name" tabtitle="Title"]....[/tabtoggle]
 [tabtoggle tabname="Name" tabtitle="Title"]....[/tabtoggle]
+[/w3itinfotab]</pre>
+
+************** Example Vertical
+<pre>[w3itinfotab tab_id="mytab1" position="Vertical"]
+[tabtoggle tabname="tab1" tabtitle="tab11"]....[/tabtoggle]
+[tabtoggle tabname="tab1" tabtitle="tab11"]....[/tabtoggle]
+[tabtoggle tabname="tab1" tabtitle="tab11"]....[/tabtoggle]
+[tabtoggle tabname="tab1" tabtitle="tab11"]....[/tabtoggle]
 [/w3itinfotab]</pre>
 
 
