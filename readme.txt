@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will add an expand collapse accordion feature inside a post or page.
+This plugin will add an expand collapse tab feature inside a post or page.
 
 
 == Description ==
