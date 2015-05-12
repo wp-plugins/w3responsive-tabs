@@ -57,7 +57,7 @@ e.g.
 
 
 == Screenshots ==
-
+1. Installed in demo server.
 
 
 == Changelog ==
