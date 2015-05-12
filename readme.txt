@@ -54,11 +54,8 @@ e.g.
 [/w3itinfotab]</pre>
 
 
-
-== Frequently asked questions ==
-
-
 == Screenshots ==
+
 1. This is an example of Horizontal Tab.
 
 2. This is an example of Vertical Tab.
