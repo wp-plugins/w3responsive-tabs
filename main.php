@@ -36,7 +36,8 @@ jQuery(document).ready(function (jQuery) {
          jQuery(".tab'.$tab_id.'").pwstabs({
 			tabsPosition: "'.$position.'",		 
 			horizontalPosition: "top",		 
-			verticalPosition: "left",		 
+			verticalPosition: "left",	 
+			containerWidth: "600px",		 
 			 responsive:true,		 
 			defaultTab: 2		 
 		 });
